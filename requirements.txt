@@ -1,0 +1,9 @@
+gradio
+jax
+jaxlib
+optax
+numpy
+matplotlib
+scipy
+requests
+plotly
